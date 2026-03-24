@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Vishvam</h1>
+<h3 align="center">CSE Student | Web Developer</h3>
 <!--
 **Vishvam2006/Vishvam2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
