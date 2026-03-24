@@ -22,71 +22,125 @@
 </div>
 
 <br>
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=c"/><br>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br>JavaScript</td>
+</tr>
+</table>
+
+---
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite"/><br>Vite</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br>Express</td>
+</tr>
+</table>
+
+---
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql"/><br>MySQL</td>
+</tr>
+</table>
+
+---
 
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vscode" />
 
-### 🔐 Concepts & Tech
-<p>
-REST APIs • JWT Auth • React Router • Nodemon
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=npm"/><br>NPM</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode"/><br>VS Code</td>
+</tr>
+</table>
+
+---
+
+### 🔐 Authentication & Security
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/clerk/ffffff" height="50"/><br>Clerk
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="50"/><br>JWT
+</td>
+</tr>
+</table>
+
+---
 
 ### 🚀 Deployment
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" height="50"/><br>Vercel
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/render/ffffff" height="50"/><br>Render
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=vercel" height="50" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/ffffff" height="50" />
+---
 
-</div>
+### 🔐 Concepts & Tech
 
-### 🤖 IoT & Simulation
 <p align="center">
-<strong>Arduino IDE • Proteus • Wokwi</strong>
+<b>REST APIs • React Router • Nodemon</b>
 </p>
 
-</div>
+</tr>
 
-<br>
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 🤖 IoT & Simulation
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=arduino" height="50"/><br>Arduino
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishvam2006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=Vishvam2006&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⭐️ From Vishvam Modi — Building, Learning, Growing 🚀
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+<b>Arduino IDE • Proteus • Wokwi</b>
+</p>
 
 </div>
