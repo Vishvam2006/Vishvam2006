@@ -4,8 +4,10 @@
 
 <h3 align="center"><b>CSE Student | Web Developer</b></h3>
 
+<h3 align="center">
 🚀 CSE Student | Aspiring Full-Stack Developer | Tech Enthusiast  
 🔭 Passionate about building impactful projects and solving real-world problems.  
 🌱 Currently learning DSA, backend development, and system design fundamentals.  
 ⚡ Fun fact: Late-night coding sessions hit different 🌙💻
 🎧 Code + Music = Perfect combo
+</h3>
