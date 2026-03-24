@@ -48,8 +48,13 @@ REST APIs • JWT Auth • React Router • Nodemon
 </p>
 
 ### 🚀 Deployment
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render" />
+
+<img src="https://skillicons.dev/icons?i=vercel" height="50" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/render/ffffff" height="50" />
+
 </div>
 
 ### 🤖 IoT & Simulation
