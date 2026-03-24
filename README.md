@@ -7,12 +7,12 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <h3>
-🚀 CSE Student | Aspiring Full-Stack Developer | Tech Enthusiast 
+🚀 CSE Student | Aspiring Full-Stack Developer | IoT Enthusiast | Tech Explorer 
 </h3>
 
 <p>
 🔭 Passionate about building impactful projects and solving real-world problems. <br>
-🌱 Currently learning DSA, backend development, and system design fundamentals. <br>
+🌱 Currently learning DSA, backend development, system design & IoT development. <br>
 ⚡ Fun fact: Late-night coding sessions hit different 🌙💻<br>
 🎧 Code + Music = Perfect combo
 </p>
@@ -49,11 +49,12 @@ REST APIs • JWT Auth • React Router • Nodemon
 
 ### 🚀 Deployment
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vercel,render" />
+  <img src="https://skillicons.dev/icons?i=vercel,render" />
 </div>
+
 ### 🤖 IoT & Simulation
-<p>
-Arduino IDE • Proteus • Wokwi
+<p align="center">
+<strong>Arduino IDE • Proteus • Wokwi</strong>
 </p>
 
 </div>
