@@ -48,8 +48,9 @@ REST APIs • JWT Auth • React Router • Nodemon
 </p>
 
 ### 🚀 Deployment
+<div align="center">
 <img src="https://skillicons.dev/icons?i=vercel,render" />
-
+</div>
 ### 🤖 IoT & Simulation
 <p>
 Arduino IDE • Proteus • Wokwi
