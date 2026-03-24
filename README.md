@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishvam</h1>
 <h3 align="center">CSE Student | Web Developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there+👋;I+am+Vishvam+Modi;CSE+Student+%7C+Web+Developer)](https://git.io/typing-svg)
 <!--
 **Vishvam2006/Vishvam2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
