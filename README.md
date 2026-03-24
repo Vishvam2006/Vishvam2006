@@ -144,10 +144,3 @@
 </p>
 
 </div>
-
-
-## 🟢 Contribution Pulse
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vishvam2006/Vishvam2006/output/pulse.svg" />
-</p>
