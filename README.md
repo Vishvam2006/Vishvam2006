@@ -1,9 +1,13 @@
 <h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:0f2027&height=120&section=header&animation=fadeIn"/>
+</h1>
+
+<h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ecc71,100:00c9ff&height=200&section=header&text=Vishvam%20Modi&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=2ECC71&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Building+Cool+Things+🚀;Full+Stack+%7C+IoT+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&delay=1200&color=2ECC71&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Building+Cool+Things+🚀;Full+Stack+%7C+IoT+Explorer" />
 </p>
 
 <p align="center">
