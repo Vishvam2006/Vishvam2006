@@ -4,9 +4,9 @@
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr style="border: 1px solid #2ecc71; width: 80%;">
 
-<h3>
+<h3 style="font-weight:600; background: linear-gradient(90deg,#2ecc71,#27ae60); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
 🚀 CSE Student | Aspiring Full-Stack Developer | IoT Enthusiast | Tech Explorer 
 </h3>
 
@@ -17,12 +17,12 @@
 🎧 Code + Music = Perfect combo
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr style="border: 1px solid #2ecc71; width: 80%;">
 
 </div>
 
 <br>
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center" style="color:#2ecc71;">🛠 Tech Stack</h2>
 
 <div align="center">
 
@@ -30,10 +30,10 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=c"/><br>C</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp"/><br>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c"/><br><b>C</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp"/><br><b>C++</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python"/><br><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br><b>JavaScript</b></td>
 </tr>
 </table>
 
@@ -43,11 +43,11 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite"/><br>Vite</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br><b>HTML</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br><b>CSS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br><b>React</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br><b>Tailwind</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite"/><br><b>Vite</b></td>
 </tr>
 </table>
 
@@ -57,8 +57,8 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br><b>Node.js</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br><b>Express</b></td>
 </tr>
 </table>
 
@@ -68,8 +68,8 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br><b>MongoDB</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql"/><br><b>MySQL</b></td>
 </tr>
 </table>
 
@@ -79,11 +79,11 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman"/><br>Postman</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=npm"/><br>NPM</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br><b>Git</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br><b>GitHub</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman"/><br><b>Postman</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=npm"/><br><b>NPM</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode"/><br><b>VS Code</b></td>
 </tr>
 </table>
 
@@ -94,10 +94,10 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://cdn.simpleicons.org/clerk/ffffff" height="50"/><br>Clerk
+<img src="https://cdn.simpleicons.org/clerk/2ecc71" height="50"/><br><b>Clerk</b>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="50"/><br>JWT
+<img src="https://cdn.simpleicons.org/jsonwebtokens/2ecc71" height="50"/><br><b>JWT</b>
 </td>
 </tr>
 </table>
@@ -109,10 +109,10 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" height="50"/><br>Vercel
+<img src="https://skillicons.dev/icons?i=vercel" height="50"/><br><b>Vercel</b>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/render/ffffff" height="50"/><br>Render
+<img src="https://cdn.simpleicons.org/render/2ecc71" height="50"/><br><b>Render</b>
 </td>
 </tr>
 </table>
@@ -125,8 +125,6 @@
 <b>REST APIs • React Router • Nodemon</b>
 </p>
 
-</tr>
-
 ---
 
 ### 🤖 IoT & Simulation
@@ -134,7 +132,7 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=arduino" height="50"/><br>Arduino
+<img src="https://skillicons.dev/icons?i=arduino" height="50"/><br><b>Arduino</b>
 </td>
 </tr>
 </table>
