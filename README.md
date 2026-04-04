@@ -1,13 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=1&pause=100000&color=2ECC71&center=true&vCenter=true&width=900&lines=VISHVAM+MODI" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Vishvam%20Modi&fontSize=60&fontColor=2ecc71&animation=twinkling&fontAlignY=50" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2ecc71,100:00c9ff&height=4&section=header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=>>>+INITIALIZING+PROFILE...;>>>+WELCOME+TO+MY+PORTFOLIO+🚀;>>>+FULL+STACK+%7C+IOT+DEV" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ecc71,100:00c9ff&height=3"/>
 </p>
 
 <p align="center">
