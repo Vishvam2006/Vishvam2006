@@ -1,17 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm
-
 <a href="https://github.com/Vishvam2006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=50ab5e&center=true&vCenter=true&width=400&lines=Vishvam+Modi" alt="Typing SVG" /></a>
 <br/>
 <a href="https://github.com/Vishvam2006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Engineer;Computer+Science+Student+%40+PDEU;Building+scalable+web+apps" alt="Typing SVG" /></a>
 
-<br/>
 
-<a href="https://github.com/Vishvam2006"><img src="https://img.shields.io/github/followers/Vishvam2006?label=Followers&style=for-the-badge&color=20232a&logoColor=white" alt="Followers" /></a>
-<a href="https://github.com/Vishvam2006"><img src="https://img.shields.io/github/stars/Vishvam2006?style=for-the-badge&color=20232a&logoColor=white" alt="Stars" /></a>
 
-<br/><br/>
 
 [LinkedIn](https://www.linkedin.com/in/vishvam-modi-169975320) • [Email](mailto:vishvam.r.modi@gmail.com) • [LeetCode](https://leetcode.com/vishvam_303/)
 
